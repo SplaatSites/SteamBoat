@@ -2,7 +2,7 @@
 
 ## How to use:
 
-1. Download mad_about_willie.zip or mad_about_willie_ModernQuickTimeInstaller.zip
+1. Download [mad_about_willie.zip](https://www.mediafire.com/file/naj0dj34xx1l8dg/mad_about_willie.zip/file) or [mad_about_willie_ModernQuickTimeInstaller.zip](https://www.mediafire.com/file/yxq2uwpvqxue329/mad_about_willie_ModernQuickTimeInstaller.zip/file).
 2. Extract the zip file and run "Garfield Setup.exe" (Ignore step 1 of the readme included inside of the zip file. If you're on a non-Windows Computer, Run the setup using WINE)
 3. After installing Garfield: Mad About Cats, Run MadCats.exe
 4. When the game asks you where is "logos.mov", Click Cancel
